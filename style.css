@@ -238,3 +238,9 @@ a.tilelink
     width: 90px;
     height: 90px;
 }
+
+#photo:hover
+{
+    transform: scale(+0.75);
+    transition-duration:2s;
+}

@@ -1,0 +1,240 @@
+body
+    {
+        background-color: #193F4D;
+        font-family: 'Lato', sans-serif;
+        color: white;
+        margin: 0px;
+    }
+
+#conteiner
+{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.R1
+{
+    margin-left: auto;
+	margin-right: auto;
+    text-align: center;
+}
+
+#name
+{
+    padding: 10px;
+    width: 550px;
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 60px;
+    margin-left: 40px;
+    color: #e6e6e6;
+    float: left;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#photo
+{
+    padding: 10px;
+    width: 650px;
+    text-align: left;
+    margin-left: 200px;
+    margin-top: 15px;
+    float: left;
+}
+
+#zegar
+{
+    padding: 10px;
+    width: 200px;
+    text-align: right;
+    font-size: 40px;
+    font-weight: 400;
+    margin-left: 200px;
+    margin-top: 15px;
+    float: left;
+}
+
+#opis
+{
+    background-color: #c1d7d7;
+    color: black;
+    width: 75%;
+    height: 240px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    text-align: justify;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+
+.Tiles
+{
+    text-align: justify;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+}
+
+.tile1
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-right: 10px;
+    background-color: #B2CBCB;
+    float: left;
+}
+.tile1:hover
+{
+    background-color: #B0CBCB;
+}
+
+.tile2
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-right: 10px;
+    background-color: #94B7B7;
+    float: left;
+}
+.tile2:hover
+{
+    background-color: #83B6B6;
+}
+
+.tile3
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-right: 10px;
+    background-color: #6d9d9d;
+    float: left;
+}
+.tile3:hover
+{
+    background-color: #5d8d8d;
+}
+
+.tile4
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-right: 10px;
+    background-color: #26A826;
+    float: left;
+}
+.tile4:hover
+{
+    background-color: #04A604;
+}
+
+.tile5
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-right: 10px;
+    background-color: #FF7E0D;
+    float: left;
+}
+.tile5:hover
+{
+    background-color: #FF5E0D;
+}
+
+.tile6
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-right: 10px;
+    background-color: #DE3E23;
+    float: left;
+}
+.tile6:hover
+{
+    background-color: #DE2E12;
+}
+
+.tile7
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-right: 10px;
+    background-color: #FF3300;
+    float: left;
+}
+.tile7:hover
+{
+    background-color: #FF2200;
+}
+
+.tile8
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-right: 10px;
+    background-color: #d94348;
+    float: left;
+}
+.tile8:hover
+{
+    background-color: #d83237;
+}
+
+.tile9
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    margin-right: 10px;
+    background-color: #4668b3;
+    float: left;
+}
+.tile9:hover
+{
+    background-color: #3557b2;
+}
+
+.tile10
+{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    background-color: #3095d3;
+    float: left;
+}
+.tile10:hover
+{
+    background-color: #2084d2;
+}
+
+#footer
+{
+    width: 100%;
+    padding: 10px;
+    font-size: 26px;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a.tilelink
+{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 90px;
+    height: 90px;
+}
